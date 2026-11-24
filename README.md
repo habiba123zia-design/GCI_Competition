@@ -1,0 +1,1 @@
+The goal of this competition is to predict whether a given data entry (representing a customer) is likely to default (= fail to make a required payment) on their loan based on a variety of customer data provided. Your task is to create a machine learning model that best predicts the probability of default for each customer.
